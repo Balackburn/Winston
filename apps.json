@@ -52,10 +52,6 @@
             "usageDescription": "Winston needs access to your library to be able to download images."
           },
           {
-            "name": "DocumentsFolderUsage",
-            "usageDescription": "Winston needs access to your documents to save/import themes."
-          },
-          {
             "name": "DocumentsFolder",
             "usageDescription": "Winston needs access to your documents to save/import themes."
           }
