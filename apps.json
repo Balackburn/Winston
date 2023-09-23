@@ -1,6 +1,15 @@
 {
-  "name": "Winston for Reddit",
-  "identifier": "com.winston.source",
+   "name": "lo.cafe Repository",
+   "identifier": "lo.cafe.altstore",
+   "subtitle": "Perfect apps from happy devs",
+   "description": "welcome to lo.cafe! have a sit, grab a coffee, here's a safe place",
+   "iconURL": "https://lo.cafe/favicon.png",
+   "headerURL": "https://lo.cafe/lo-cafe-cover.png",
+   "website": "https://lo.cafe",
+   "tintColor": "#4185A9",
+   "featuredApps": [
+      "lo.cafe.winston"
+   ],
   "apps": [
     {
       "beta": false,
