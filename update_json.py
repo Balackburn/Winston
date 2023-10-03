@@ -110,7 +110,7 @@ def update_json_file(json_file, fetched_data_all, fetched_data_latest):
         "identifier": news_identifier,
         "caption": f"Update of Winston just got released!",
         "date": fetched_data_latest["published_at"],
-        "tintColor": "#3F91FE",
+        "tintColor": "#000000",
         "imageURL": "https://raw.githubusercontent.com/Balackburn/Winston/main/images/news/news_2.png",
         "notify": True,
         "url": f"https://github.com/Kinark/winston/releases/tag/{tag}"
