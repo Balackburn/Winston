@@ -17,14 +17,14 @@
       "bundleIdentifier": "lo.cafe.winston",
       "developerName": "Kinark",
       "subtitle": "Winston, a beautiful and native Reddit client for iOS",
-      "version": "1.0",
-      "versionDate": "2023-09-20T22:43:53Z",
-      "versionDescription": "This version is the first IPA available for download for people who can't use TestFlight for any reason.\r\nWe don't have a versioning system yet as well, so \"0.1\" is not exactly precise.",
-      "downloadURL": "https://github.com/Kinark/winston/releases/download/v0.1-alpha/winston.ipa",
+      "version": "2.0",
+      "versionDate": "2023-10-02T14:46:31Z",
+      "versionDescription": "\u2022 Fixed crash when replying\r\n\u2022 Fixed crash when importing new themes\r\n\u2022 Fixed crash when long pressing on comment\r\n\u2022 Fixed random name in exported themes\r\n\u2022 Now exported themes have \".winston\" extension (zip will continue to work though)\r\n\u2022 Sharing zip to winston is now allowed\r\n\u2022 \".winston\" open in one tap into winston and imports it",
+      "downloadURL": "https://github.com/Kinark/winston/releases/download/v0.2-alpha/winston.ipa",
       "localizedDescription": "Introducing Winston: \n A Stunning and native Reddit client for iOS\n- In-development, free, and open-source app and bot \n- User-friendly interface designed for easy navigation\n- Compliance with Reddit's Terms of Service for a seamless experience\n- Stay connected with the Reddit community in a sleek and intuitive way\n- Experience the beauty of Winston, your ultimate iOS Reddit companion.\n",
       "iconURL": "https://raw.githubusercontent.com/Balackburn/Winston/main/images/0.png",
       "tintColor": "#000000",
-      "size": 8614755,
+      "size": 21591722,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/Balackburn/Winston/main/images/1.png",
         "https://raw.githubusercontent.com/Balackburn/Winston/main/images/2.png",
@@ -35,6 +35,13 @@
         "https://raw.githubusercontent.com/Balackburn/Winston/main/images/7.png"
       ],
       "versions": [
+        {
+          "version": "2.0",
+          "date": "2023-10-02T14:46:31Z",
+          "localizedDescription": "\u2022 Fixed crash when replying\r\n\u2022 Fixed crash when importing new themes\r\n\u2022 Fixed crash when long pressing on comment\r\n\u2022 Fixed random name in exported themes\r\n\u2022 Now exported themes have \".winston\" extension (zip will continue to work though)\r\n\u2022 Sharing zip to winston is now allowed\r\n\u2022 \".winston\" open in one tap into winston and imports it",
+          "downloadURL": "https://github.com/Kinark/winston/releases/download/v0.2-alpha/winston.ipa",
+          "size": 21591722
+        },
         {
           "version": "1.0",
           "date": "2023-09-20T22:43:53Z",
@@ -88,6 +95,16 @@
       "imageURL": "https://raw.githubusercontent.com/Balackburn/Winston/main/images/news/news_2.png",
       "notify": true,
       "url": "https://github.com/Kinark/winston/releases/tag/v0.1-alpha"
+    },
+    {
+      "title": "0.2-alpha - Winston for Reddit",
+      "identifier": "release-0.2-alpha",
+      "caption": "Update of Winston just got released!",
+      "date": "2023-10-02T14:46:31Z",
+      "tintColor": "#3F91FE",
+      "imageURL": "https://raw.githubusercontent.com/Balackburn/WinstonAltstore/main/images/news/news_2.png",
+      "notify": true,
+      "url": "https://github.com/Kinark/winston/releases/tag/v0.2-alpha"
     }
   ]
 }
