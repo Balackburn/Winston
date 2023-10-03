@@ -17,7 +17,7 @@
       "bundleIdentifier": "lo.cafe.winston",
       "developerName": "Kinark",
       "subtitle": "Winston, a beautiful and native Reddit client for iOS",
-      "version": "2.0",
+      "version": "0.2",
       "versionDate": "2023-10-02T14:46:31Z",
       "versionDescription": "\u2022 Fixed crash when replying\r\n\u2022 Fixed crash when importing new themes\r\n\u2022 Fixed crash when long pressing on comment\r\n\u2022 Fixed random name in exported themes\r\n\u2022 Now exported themes have \".winston\" extension (zip will continue to work though)\r\n\u2022 Sharing zip to winston is now allowed\r\n\u2022 \".winston\" open in one tap into winston and imports it",
       "downloadURL": "https://github.com/Kinark/winston/releases/download/v0.2-alpha/winston.ipa",
@@ -35,6 +35,13 @@
         "https://raw.githubusercontent.com/Balackburn/Winston/main/images/7.png"
       ],
       "versions": [
+        {
+          "version": "0.2",
+          "date": "2023-10-02T14:46:31Z",
+          "localizedDescription": "\u2022 Fixed crash when replying\r\n\u2022 Fixed crash when importing new themes\r\n\u2022 Fixed crash when long pressing on comment\r\n\u2022 Fixed random name in exported themes\r\n\u2022 Now exported themes have \".winston\" extension (zip will continue to work though)\r\n\u2022 Sharing zip to winston is now allowed\r\n\u2022 \".winston\" open in one tap into winston and imports it",
+          "downloadURL": "https://github.com/Kinark/winston/releases/download/v0.2-alpha/winston.ipa",
+          "size": 21591722
+        },
         {
           "version": "2.0",
           "date": "2023-10-02T14:46:31Z",
