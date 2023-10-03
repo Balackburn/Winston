@@ -102,7 +102,7 @@
       "caption": "Update of Winston just got released!",
       "date": "2023-10-02T14:46:31Z",
       "tintColor": "#3F91FE",
-      "imageURL": "https://raw.githubusercontent.com/Balackburn/WinstonAltstore/main/images/news/news_2.png",
+      "imageURL": "https://raw.githubusercontent.com/Balackburn/winston/main/images/news/news_2.png",
       "notify": true,
       "url": "https://github.com/Kinark/winston/releases/tag/v0.2-alpha"
     }
