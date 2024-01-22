@@ -19,7 +19,7 @@
       "subtitle": "Winston, a beautiful and native Reddit client for iOS",
       "version": "1.1",
       "versionDate": "2024-01-19T15:03:25Z",
-      "versionDescription": "Check discord for changelog",
+      "versionDescription": "\u2022 Markdown overhaul (tables, spoilers, quotes now supported)\r\n\u2022 Comment skipper button\r\n\u2022 Apollo style 'Navigation anywhere' \u2022 it will now drag the page as you drag your finger.\r\n\u2022 Custom filters to easily find posts that contain some text\r\n\u2022 Compact mode per subreddit\r\n\u2022 Misc. bug fixes and performance improvements",
       "downloadURL": "https://github.com/lo-cafe/winston/releases/download/v1.1.2/winston.ipa",
       "localizedDescription": "Introducing Winston: \n A Stunning and native Reddit client for iOS\n- In-development, free, and open-source app and bot \n- User-friendly interface designed for easy navigation\n- Compliance with Reddit's Terms of Service for a seamless experience\n- Stay connected with the Reddit community in a sleek and intuitive way\n- Experience the beauty of Winston, your ultimate iOS Reddit companion.\n",
       "iconURL": "https://raw.githubusercontent.com/Balackburn/Winston/main/images/0.png",
@@ -38,7 +38,7 @@
         {
           "version": "1.1",
           "date": "2024-01-19T15:03:25Z",
-          "localizedDescription": "Check discord for changelog",
+          "localizedDescription": "\u2022 Markdown overhaul (tables, spoilers, quotes now supported)\r\n\u2022 Comment skipper button\r\n\u2022 Apollo style 'Navigation anywhere' \u2022 it will now drag the page as you drag your finger.\r\n\u2022 Custom filters to easily find posts that contain some text\r\n\u2022 Compact mode per subreddit\r\n\u2022 Misc. bug fixes and performance improvements",
           "downloadURL": "https://github.com/lo-cafe/winston/releases/download/v1.1.2/winston.ipa",
           "size": 48250209
         },
