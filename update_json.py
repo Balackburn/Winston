@@ -129,7 +129,7 @@ def update_json_file(json_file, fetched_data_all, fetched_data_latest):
 
 # Main function
 def main():
-    repo_url = "Kinark/winston"
+    repo_url = "lo-cafe/winston"
     json_file = "apps.json"
 
     fetched_data_all = fetch_all_releases(repo_url)
